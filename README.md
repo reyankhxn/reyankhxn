@@ -1,4 +1,32 @@
-## Hi there 👋
+# Hi, I'm Reyan Khan 👋
+
+🎓 B.Tech CSE (AI/ML) Student at Uttaranchal University
+
+💻 Skills:
+- Python
+- Machine Learning
+- Pandas
+- NumPy
+- Data Analysis
+- DSA
+
+🚀 Projects:
+### Online Shopping Intention Analysis
+- Random Forest Model
+- 89.65% Accuracy
+- Streamlit Web App
+- GitHub Project
+
+📜 Certifications:
+- Machine Learning Certification – SCALEZIX
+
+🌱 Currently Learning:
+- Machine Learning
+- Data Science
+- SQL
+
+📫 Connect with me:
+LinkedIn: https://www.linkedin.com/in/reyankhan/
 
 <!--
 **reyankhxn/reyankhxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
