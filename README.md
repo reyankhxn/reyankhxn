@@ -29,9 +29,11 @@
 - Machine Learning Certification – SCALEZIX
 
 🌱 Currently Learning:
+
+- Natural Language Processing (NLP)
 - Machine Learning
 - Data Science
-- SQL
+- Streamlit Deployment
 
 📫 Connect with me:
 LinkedIn: https://www.linkedin.com/in/reyankhan/
