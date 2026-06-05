@@ -11,11 +11,19 @@
 - DSA
 
 🚀 Projects:
-### Online Shopping Intention Analysis
-- Random Forest Model
-- 89.65% Accuracy
-- Streamlit Web App
-- GitHub Project
+
+### 🛒 Online Shopping Intention Analysis
+- Built a Machine Learning model using Random Forest to predict customer purchase intention.
+- Achieved 89.65% accuracy.
+- Performed data preprocessing, EDA, and visualization.
+- Developed an interactive Streamlit dashboard.
+
+### 📄 AI Resume Screening System
+- Built an NLP-based Resume Screening System using TF-IDF and Logistic Regression.
+- Achieved 99.48% classification accuracy.
+- Implemented ATS Match Score calculation and skill matching.
+- Added resume category prediction and resume strength analysis.
+- Developed an interactive Streamlit web application.
 
 📜 Certifications:
 - Machine Learning Certification – SCALEZIX
